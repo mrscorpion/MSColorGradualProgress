@@ -1,22 +1,22 @@
 //
-//  GradualProgressView.m
+//  MSGradualProgressView.m
 //  ColorGradualProgress
 //
-//  Created by dhuil on 15/9/12.
-//  Copyright (c) 2015年 Gavin Li. All rights reserved.
+//  Created by mr.scorpion on 15/6/12.
+//  Copyright (c) 2015年 mr.scorpion. All rights reserved.
 //
 
-#import "GradualProgressView.h"
+#import "MSGradualProgressView.h"
 
 
-@interface GradualProgressView ()
+@interface MSGradualProgressView ()
 
 @property (nonatomic, strong) CALayer * maskLayer;
 
 @end
 
 
-@implementation GradualProgressView
+@implementation MSGradualProgressView
 
 /**  init  */
 - (instancetype)initWithFrame:(CGRect )frame

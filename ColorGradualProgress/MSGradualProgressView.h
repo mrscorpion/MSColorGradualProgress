@@ -1,14 +1,14 @@
 //
-//  GradualProgressView.h
+//  MSGradualProgressView.h
 //  ColorGradualProgress
 //
-//  Created by dhuil on 15/9/12.
-//  Copyright (c) 2015年 Gavin Li. All rights reserved.
+//  Created by mr.scorpion on 15/6/12.
+//  Copyright (c) 2015年 mr.scorpion. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface GradualProgressView : UIView
+@interface MSGradualProgressView : UIView
 
 
 /**  Progress values go from 0.0 to 1.0  */
